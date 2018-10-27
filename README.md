@@ -1,2 +1,3 @@
-# abo
-Automating Bayesian optimization with Bayesian optimization
+# ABO: Automating Bayesian optimization with Bayesian optimization
+
+Initial commit.
